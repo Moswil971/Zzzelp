@@ -3,10 +3,10 @@
 class Zzzelp {
 
 	public static $url;
-	public static $sel_hash = '1*f6_D'; // A MODIFIER A L'INSTALLATION
+	public static $sel_hash = '2*f6_S'; // A MODIFIER A L'INSTALLATION
 	public static $IP;
 	public static $page;
-	public static $pseudo_admin = 'delangle' ;  // A MODIFIER A L'INSTALLATION
+	public static $pseudo_admin = 'moswil' ;  // A MODIFIER A L'INSTALLATION
 	public static $onglet;
 	public static $url_site = 'http://zzzelp.fr/';
 	public static $url_page;
